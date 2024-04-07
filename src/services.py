@@ -1,5 +1,5 @@
 import tweepy
-from src.segredinho import *
+from src.segredos import *
 
 
 def get_trends(woe_id: int) -> list[dict[literal, any]]:
